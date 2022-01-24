@@ -10,3 +10,5 @@ https://www.slideshare.net/haoel/go-programming-patterns
 可以增加泛型部分了todo
 test in process
 test update pr
+
+test local change
